@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+}
+
+label {
+  font-size: 1.2em;
+  margin-right: 10px;
+}
+
+#zipCodeInput {
+  padding: 8px;
+  font-size: 1em;
+}
+
+#zipCodeError {
+  color: red;
+  font-style: italic;
+  margin-top: 5px;
+}
+
+#priceDiv {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+.error {
+  color: red;
+  font-style: italic;
+}
+
+#checkButton {
+  padding: 10px;
+  font-size: 1em;
+  cursor: pointer;
+}
